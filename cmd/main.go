@@ -7,6 +7,7 @@ import (
 func main() {
 	fmt.Println("Hello world")
 	fmt.Println("Test_branch_example")
+	fmt.Println("Test_branch_child_nested_example")
 	add(5, 15)
 	fmt.Println("Test_branch_child_example_edited")
 }
